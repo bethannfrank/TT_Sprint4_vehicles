@@ -4,6 +4,9 @@ This is a repository for TT Sprint 4 Project analyzing car advertisement data. I
 The live interactive application for this project on Render is here:
 https://tt-sprint-4-vehicles.onrender.com/
 
+Sample image from the application:
+![image](https://github.com/user-attachments/assets/5d9a7066-7e11-4c68-9315-7d3c1a0eab5e)
+
 This project uses car advertisement data from the US (vehicles_us.csv) available here: https://practicum-content.s3.us-west-1.amazonaws.com/datasets/vehicles_us.csv
 
 To run the program, Python 3 (3.11.5) was used with the following packages: pandas, streamlit, plotly.express.
