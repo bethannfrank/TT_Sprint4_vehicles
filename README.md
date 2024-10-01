@@ -1,5 +1,5 @@
 # TT_Sprint4_vehicles
-This is a repository for TT Spring 4 Project analyzing car advertisement data. It creates a web application on Render to expore the data through visual graphs for random events, i.e., used vehicle sales. Specifically, the graphs look at overall vehicle sales and certain factors (e.g., condition, model year, color) as they compare to price and days listed/days advertised.
+This is a repository for TT Sprint 4 Project analyzing car advertisement data. It creates a web application on Render to expore the data through visual graphs for random events, i.e., used vehicle sales. Specifically, the graphs look at overall vehicle sales and certain factors (e.g., condition, model year, color) as they compare to price and days listed/days advertised.
 
 The live interactive application for this project on Render is here:
 https://tt-sprint-4-vehicles.onrender.com/
